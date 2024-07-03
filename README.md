@@ -4,11 +4,11 @@
 
 #### - 💻‍ I'm a Software Engineering Student
 
-#### - 👨‍💻 Currently working with JavaScript Tech stack Next JS for web development
+#### - 👨‍💻 Currently working with Mern Stack & Next JS for web development
 
-#### - 🎇 Learning: MERN STACK
+#### - 🎇 Learning Flutter
 
-#### - 🎨 Hobbies: Programming & Music Listening
+#### - 🎨 Hobbies: Programming & Sleeping
 
 <br />
 <p align="center">
