@@ -12,10 +12,10 @@
 
 <br />
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-sabtain-hamza/" target="_blank">
+  <a href="https://www.linkedin.com/in/msabtainhamza" target="_blank">
   <img alt="msabtainhamza | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.facebook.com/MuhammadSabtainHamza" target="_blank">
+<a href="https://www.facebook.com/msabtainhamza" target="_blank">
   <img  alt="@sabtain hamza | Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 </p>
