@@ -2,7 +2,7 @@
 
 
 
-#### - 💻‍ I'm a Software Engineering Student
+#### - 💻‍ I'm a Software Engineer
 
 #### - 👨‍💻 Currently working with Mern Stack & Next JS for web development
 
