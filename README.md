@@ -6,8 +6,6 @@
 
 #### - 👨‍💻 Currently working with Mern Stack & Next JS for web development
 
-#### - 🎇 Learning Flutter
-
 #### - 🎨 Hobbies: Programming & Sleeping
 
 <br />
