@@ -6,8 +6,6 @@
 
 #### - 👨‍💻 Currently working with Mern Stack & Next JS for web development
 
-#### - 🎨 Hobbies: Programming & Sleeping
-
 <br />
 <p align="center">
   <a href="https://www.linkedin.com/in/msabtainhamza" target="_blank">
