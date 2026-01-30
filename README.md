@@ -1,6 +1,6 @@
 ---
 
-### Hi there, I'm [Muhammad Sabtain Hamza!](https://www.linkedin.com/in/muhammad-sabtain-hamza/) 👋
+### Hi there, I'm [Muhammad Sabtain Hamza!](https://www.linkedin.com/in/msabtainhamza/) 👋
 
 #### 💼 Senior Software Engineer
 
