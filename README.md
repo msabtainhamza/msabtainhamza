@@ -49,31 +49,4 @@
   <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=msabtainhamza&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msabtainhamza&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=msabtainhamza&theme=onedark&row=1&column=6" />
-</p>
-
----
-
-### 🤝 Let’s Connect
-
-* 💼 LinkedIn: [Muhammad Sabtain Hamza](https://www.linkedin.com/in/msabtainhamza)
-* 💬 Open to collaboration, freelance, and senior engineering roles
-
----
+---=
