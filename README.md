@@ -1,6 +1,3 @@
-Perfect — here’s a **fully upgraded, professional GitHub Profile README** with **visitor counter, trophies, and pinned projects section**, still clean and senior-level.
-Just paste this into your `README.md`.
-
 ---
 
 ### Hi there, I'm [Muhammad Sabtain Hamza!](https://www.linkedin.com/in/muhammad-sabtain-hamza/) 👋
