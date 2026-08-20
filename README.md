@@ -4,7 +4,7 @@
 
 #### 💼 Senior Software Engineer
 
-#### 🚀 Building scalable web applications with **MERN Stack, Next.js, Shopify & Webflow**
+#### 🚀 Building scalable web applications with **MERN Stack, Next.js, PHP, Laravel, Python, Shopify & Webflow**
 
 #### 🧩 Experienced with **PHP**, custom integrations, and modern frontend architectures
 
