@@ -28,7 +28,7 @@
 ### 👨‍💻 About Me
 
 * Senior Software Engineer with 5 years of experience
-* Specialized in **MERN Stack**, **Next.js**, **NestJS**, **Shopify**, **Webflow**, and **PHP**
+* Specialized in **MERN Stack**, **Next.js**, **NestJS**, **Python**, **Azure**, and **AWS**
 * Strong focus on performance, scalability, and clean architecture
 * Experience working on startups, SaaS products, and business-driven platforms
 
