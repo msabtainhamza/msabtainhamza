@@ -22,8 +22,6 @@ I'm a **Senior Software Engineer with 5 years of experience** building enterpris
 
 At **Integriti**, I build multi-tenant platforms, modernize serverless applications and design secure identity solutions. I also use **Python, custom AI agents and MCP integrations** to automate workflows and streamline development.
 
-> ⚡ A performance win: reduced a critical stored procedure's execution time from **27 minutes to 58 seconds**.
-
 ---
 
 ### 🛠️ My Engineering Toolkit
