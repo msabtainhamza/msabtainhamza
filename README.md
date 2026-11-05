@@ -90,15 +90,6 @@ At **Integriti**, I build multi-tenant platforms, modernize serverless applicati
 
 ---
 
-### ⚡ Highlights
-
-- Delivered **10+ event-driven serverless applications** using Azure services.
-- Modernized Azure Functions from **.NET Core 3.1/7 to .NET 8/10**.
-- Built fintech services for products serving clients such as **Payoneer and Payfair**.
-- Earned **Employee of the Month three times** at ICOT Solutions.
-
----
-
 <div align="center">
 
 ### 💬 Let's Talk Software, Cloud & AI
