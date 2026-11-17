@@ -10,7 +10,7 @@
 [![Email](https://img.shields.io/badge/Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabtainhamza2003@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/msabtainhamza)
 
-**.NET & Python** · **Azure & AWS** · **AI Automations** · **Fintech & Healthcare**
+**.NET & Python** · **ReactJS & NestJS & Next.js** · **Azure & AWS** · **AI Automations** · **Fintech & Healthcare**
 
 </div>
 
